@@ -2,7 +2,7 @@
 > This project is like y'know. For school.
 
 ## 📖 Overview
-Explain why you built this project and what problem it solves. If it's for a specific class, mention that here.
+We did this
 * **Course:** [e.g., Computer Science 101]
 * **Instructor:** [Teacher Name]
 * **Deadline:** [Date]
