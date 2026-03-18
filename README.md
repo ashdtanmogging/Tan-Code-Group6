@@ -1,4 +1,4 @@
-# [Person-Info-GroupX]
+# [Tan-Code-Group5]
 > This project is like y'know. For school.
 
 ## Overview
